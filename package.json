@@ -86,7 +86,7 @@
   "apidoc": {
     "title": "DoraCMS Api",
     "description": "DoraCMS App接口文档",
-    "url": "http://localhost:3200"
+    "url": "http://localhost:3100"
   },
   "_moduleAliases": {
     "@root": ".",
