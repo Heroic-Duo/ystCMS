@@ -96,18 +96,18 @@ npm run stop
 ```javascript
 npm run makePrdDoc
 
-api访问地址： http://localhost:8080/static/apidoc/index.html
+api访问地址： http://localhost:3100/static/apidoc/index.html
 ```
 
 
 ### 首页
 ```javascript
-http://localhost:8080
+http://localhost:3100
 ```
 
 ### 后台登录
 ```javascript
-http://localhost:8080/dr-admin
-登录账号：doramart/123456    doracms/123456
+http://localhost:3100/admin
+登录账号：admin/1234560
 
 

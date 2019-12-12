@@ -13,7 +13,7 @@ module.exports = (options, app) => {
 
     const routeWhiteList = [
         '/admin/login',
-        '/dr-admin',
+        '/admin',
     ]
 
     return async function authAdminToken(ctx, next) {
